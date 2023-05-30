@@ -9,4 +9,4 @@ This is not a patch in xDelta for now.
 If you find problems within the texts, let me know.
 
 
-In order to install the patch you need to put every subfolder in "0004000000074600/romfs/data" folder
+In order to install the patch you need to put the data folder in "0004000000074600/romfs" folder
