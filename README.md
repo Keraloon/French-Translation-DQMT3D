@@ -7,3 +7,6 @@ All Wi-Fi and Streetpass texts has been kept in English (and location on the min
 This is not a patch in xDelta for now.
 
 If you find problems within the texts, let me know.
+
+
+In order to install the patch you need to put every folder in "0004000000074600/romfs/data" folder
