@@ -1,6 +1,5 @@
 # French-Translation-DQMT3D
 
-WILL BE UPDATED IN A FEW WEEKS, SOME FILES ARE NOT COMPLETELY CORRECTED 
 French Translation Files for Dragon Quest Monsters : Terry's Wonderland 3D 
 
 All Monsters, Abilities, Dialogues, Location etc.. has been translated 
@@ -12,3 +11,5 @@ If you find problems within the texts, let me know.
 
 
 In order to install the patch you need to put the data folder in "0004000000074600/romfs" folder
+
+Update : the path has been corrected to data/Event instead of Demo and Field, Some Monsters and texts was not correctly translated and exceed the textbox
