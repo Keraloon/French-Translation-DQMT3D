@@ -11,6 +11,6 @@ This is not a patch in xDelta for now.
 If you find problems within the texts, let me know.
 
 
-In order to install the patch you need to put the data folder in "0004000000074600/romfs" folder
+!! In order to install the patch you need to put the data folder in "0004000000074600\romfs" folder on Citra\load\mods for Citra, and luma\titles for 3ds with luma !!
 
 
