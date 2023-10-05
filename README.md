@@ -12,4 +12,4 @@ If you find problems within the texts, let me know.
 
 In order to install the patch you need to put the data folder in "0004000000074600/romfs" folder
 
-Update : the path has been corrected to data/Event instead of Demo and Field, Some Monsters and texts was not correctly translated and exceed the textbox
+Update : the path has been corrected to data/Event instead of Demo and Field, Some Monsters and texts was not correctly translated and exceeded the textbox
