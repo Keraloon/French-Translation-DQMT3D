@@ -10,7 +10,7 @@ This is not a patch in xDelta for now.
 
 If you find problems within the texts, let me know.
 
-To download, simply download as ZIP and unzip in order to have the "data" folder, delete the readme after
+To download, simply download as ZIP and unzip in order to have the "data" folder, delete the readme after                      
 !! In order to install the patch you need to put the data folder in "0004000000074600\romfs" folder on Citra\load\mods for Citra, and luma\titles for 3ds with luma !!
 
 
