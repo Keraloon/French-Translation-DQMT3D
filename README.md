@@ -1,5 +1,6 @@
 # French-Translation-DQMT3D
-French Translation Files for Dragon Quest Monsters : Terry's Wonderland 3D 
+French Translation Files for Dragon Quest Monsters : Terry's Wonderland 3D       
+
 [FR]
 Tous les monstres, talents, dialogues, lieux etc.. sont traduits
 Tous les textes en rapport avec le Streetpass ou Wi-Fi ont été gardés en anglais car non utilisable (les lieux sur la mini map également POUR LE MOMENT)
