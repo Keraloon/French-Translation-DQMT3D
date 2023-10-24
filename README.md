@@ -9,7 +9,7 @@ Ce n'est pas un patch xDelta, pour télécharger, veuillez cliquer sur "Download
 
 Ensuite pour installer le patch, vous avez besoin de la rom anglaise (disponible sur Ziperto, ou autres, par exemple sur ce lien **https://1fichier.com/?9x1euewtsiv1pvyxceql** )     
 
-De mettre le dossier data dans "Citra\load\mods\0004000000074600\romfs" pour Citra (Ce chemin sera ouvert en faisant, click droit, ouvrir le dossier des mods, et pour les joueurs 3ds dans "luma\titles\0004000000074600\romfs"
+De mettre le dossier data dans "Citra\load\mods\0004000000074600\romfs" pour Citra (Ce chemin sera ouvert en faisant, click droit, ouvrir le dossier des mods) et pour les joueurs 3ds dans "luma\titles\0004000000074600\romfs"
 
 ---------------------------------------------------------------------------------------------------------
 
