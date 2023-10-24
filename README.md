@@ -12,6 +12,12 @@ Ensuite pour installer le patch, vous avez besoin de la rom anglaise (disponible
 De mettre le dossier data dans "Citra\load\mods\0004000000074600\romfs" pour Citra (Ce chemin sera ouvert en faisant, click droit, ouvrir le dossier des mods, et pour les joueurs 3ds dans "luma\titles\0004000000074600\romfs"
 
 
+
+
+
+
+
+
 [EN]
 All Monsters, Abilities, Dialogues, Location etc.. has been translated 
 All Wi-Fi and Streetpass texts has been kept in English (and location on the mini map too)
