@@ -1,8 +1,15 @@
 # French-Translation-DQMT3D
 French Translation Files for Dragon Quest Monsters : Terry's Wonderland 3D 
+[FR]
+Tous les monstres, talents, dialogues, lieux etc.. sont traduits
+Tous les textes en rapport avec le Streetpass ou Wi-Fi ont été gardés en anglais car non utilisable (les lieux sur la mini map également POUR LE MOMENT)
 
-Update : the path has been corrected to data/Event instead of Demo and Field, Some Monsters and texts was not correctly translated and exceeded the textbox
+Ce n'est pas un patch xDelta, pour télécharger, veuillez cliquer sur "Download as ZIP" et dézippez le afin d'avoir le fichier "data"
 
+Ensuite pour installer le patch, vous avez besoin de la rom anglaise, et de mettre le dossier data dans "Citra\load\mods\0004000000074600\romfs" pour Citra (en gros faites click droit, ouvrir le dossier des mods sur la rom, et pour les joueurs 3ds dans "luma\titles\0004000000074600\romfs"
+
+
+[EN]
 All Monsters, Abilities, Dialogues, Location etc.. has been translated 
 All Wi-Fi and Streetpass texts has been kept in English (and location on the mini map too)
 
