@@ -7,9 +7,9 @@ Tous les textes en rapport avec le Streetpass ou Wi-Fi ont été gardés en angl
 
 Ce n'est pas un patch xDelta, pour télécharger, veuillez cliquer sur "Download as ZIP" et dézippez le afin d'avoir le fichier "data"
 
-Ensuite pour installer le patch, vous avez besoin de la rom anglaise
+Ensuite pour installer le patch, vous avez besoin de la rom anglaise puis de : 
 
-De mettre le dossier data dans "Citra\load\mods\0004000000074600\romfs" pour Citra (Ce chemin sera ouvert en faisant, click droit, ouvrir le dossier des mods et ensuite créer le dossier "romfs") et pour les joueurs 3ds dans "luma\titles\0004000000074600\romfs"
+Mettre le dossier data dans "Citra\load\mods\0004000000074600\romfs" pour Citra (Ce chemin sera ouvert en faisant, click droit, ouvrir le dossier des mods et ensuite créer le dossier "romfs") et pour les joueurs 3ds dans "luma\titles\0004000000074600\romfs"
 
 ---------------------------------------------------------------------------------------------------------
 
